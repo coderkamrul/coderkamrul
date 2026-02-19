@@ -1,33 +1,121 @@
+<!-- HERO -->
+<h1 align="center">Hi, I'm Kamrul Hasan Shahin 👋</h1>
+
 <p align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
-  <h2 align="center">GitHub Profile Trophy</h2>
-  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
+Frontend Developer • Web Designer • Agency Owner
 </p>
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/>
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/>
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/>
-  </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/>
-  </a>
+I build fast, scalable, and conversion-focused websites using modern technologies.  
+Focused on clean UI, performance, and real business results.
 </p>
-<p align="center">
-  </a>
-    <a href="https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy">
-    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy"/>
-  </a>
+
+---
+
+## 🚀 About Me
+
+- 💻 Frontend Developer & Web Designer  
+- 🧠 Specialized in modern web technologies  
+- 🏢 Founder of WebCare Academy  
+- ⚡ Focused on performance, UI/UX, and scalable architecture  
+- 🌍 Working with clients worldwide  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://coderkamrul.vercel.app/" target="_blank">
+Portfolio
+</a> • 
+<a href="https://webcareacademy.com/" target="_blank">
+Agency Website
+</a> • 
+<a href="https://github.com/coderkamrul" target="_blank">
+GitHub
+</a>
 </p>
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript
+- React
+- Next.js
+
+### Backend & CMS
+- Node.js
+- Express.js
+- MongoDB
+- Firebase
+- WordPress
+
+### Tools
+- Git
+- GitHub
+- Figma
+- Vercel
+- Cloudinary
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
+
+<img src="https://github-readme-stats.vercel.app/api?username=coderkamrul&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=coderkamrul&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderkamrul&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <a href="https://github.com/sponsors/ryo-ma">
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>
-  </a>
+<img src="https://github-profile-trophy.vercel.app/?username=coderkamrul&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 💼 What I Do
+
+- Modern Website Development
+- Landing Page Design
+- Web App Development
+- Agency Website Development
+- Performance Optimization
+- UI/UX Implementation
+
+---
+
+## 📌 Featured Work
+
+### 🌐 Portfolio
+https://coderkamrul.vercel.app/
+
+### 🏢 Agency
+https://webcareacademy.com/
+
+---
+
+## 📫 Contact
+
+If you want to work together or have a project idea:
+
+- Portfolio: https://coderkamrul.vercel.app/
+- Agency: https://webcareacademy.com/
+
+---
+
+<p align="center">
+⚡ Building modern, fast, and scalable web experiences
 </p>
